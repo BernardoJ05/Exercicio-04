@@ -1,0 +1,95 @@
+.container{
+    display:flex;
+    margin: 0;
+}
+body{
+    background-color:rgb(49, 48, 48) ;
+}
+.numero{
+    margin: 0;
+    margin-top: 5px ;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.nome{
+    text-align: center;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.letra{
+    text-align: center;
+    margin-top: 21px;
+    margin-bottom: 5%;
+}
+.quadrado1{
+    background-color: #63A74f;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.quadrado2{
+    background-color: #eb9c09;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.quadrado3{
+    background-color: #ebdc09;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.quadrado4{
+    background-color: #eb9c09;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.quadrado5{
+    background-color: #eb9c09;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.quadrado6{
+    background-color: #eb9c09;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.quadrado7{
+    background-color: #eb9c09;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
