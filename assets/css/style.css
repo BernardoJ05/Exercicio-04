@@ -7,7 +7,7 @@ body{
 }
 .numero{
     margin: 0;
-    margin-top: 5px ;
+    margin-top: 0px ;
     margin-left: 8px;
     margin-bottom: 8px;
 }
@@ -20,76 +20,60 @@ body{
 
 .letra{
     text-align: center;
-    margin-top: 21px;
+    margin-top: 5px;
     margin-bottom: 5%;
 }
-.quadrado1{
-    background-color: #63A74f;
-    width: 100px;
-    height: 100px;
+.quadrado{
+    width: 80px;
+    height: 80px;
     margin: 10px;
     border: 2px solid #000;
     border-radius: 20px;
 }
+.vazio{
+    width: 80px;
+    height: 80px;
+    margin-top: 13px;
+}
 
-.quadrado2{
+.espaco{
+    margin-top: 120px;
+}
+
+.nao-metais{
+    background-color: #7fff57;
+}
+.metais-alcalinos{
     background-color: #eb9c09;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
-    border: 2px solid #000;
-    border-radius: 20px;
 }
-
-.quadrado3{
+.metais-alcalinos-terrosos{
     background-color: #ebdc09;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
-    border: 2px solid #000;
-    border-radius: 20px;
 }
 
-.quadrado4{
-    background-color: #eb9c09;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    margin: 10px;
-    border: 2px solid #000;
-    border-radius: 20px;
+.gases-nobres{
+    background-color: #2a78ec;
 }
 
-.quadrado5{
-    background-color: #eb9c09;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    margin: 10px;
-    border: 2px solid #000;
-    border-radius: 20px;
+.semimetais{
+    background-color: #208eaf;
 }
 
-.quadrado6{
-    background-color: #eb9c09;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    margin: 10px;
-    border: 2px solid #000;
-    border-radius: 20px;
+.Halogênios{
+    background-color: rgb(5, 184, 255);
 }
 
-.quadrado7{
-    background-color: #eb9c09;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    margin: 10px;
-    border: 2px solid #000;
-    border-radius: 20px;
+.outros-metais{
+    background-color: #99bac9;
+}
+
+.metais-de-transição{
+    background-color: #f7879f;
+}
+
+.lantanideos{
+    background-color: #34ece3;
+}
+
+.Actinídios{
+    background-color: #e093c3;
 }
